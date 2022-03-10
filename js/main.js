@@ -5,7 +5,7 @@ $(function () {
       nextArrow: '<button type="button" class="slick-next"><img src="./images/next.svg" alt=""></button>',
       fade: true,
       responsive: [{
-         breakpoint: 361,
+         breakpoint: 371,
          settings: {
             dots: false,
             arrows: false,
